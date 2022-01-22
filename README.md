@@ -6,6 +6,9 @@ Bbot uses various mathematical equations, built-in indicators such as Relative S
 #### Bitcoin
 ![image](https://user-images.githubusercontent.com/30962683/149702685-7e63aa00-db3c-439a-b4b1-53b056adc1d1.png)
 
+**Update of 1/22 **
+![image](https://user-images.githubusercontent.com/30962683/150654834-09ea6b00-df04-456c-87a2-8b78b1ac962e.png)
+
 ---
 
 Also valid for Stock markets. Example of S&P 500 ETF, Apple etc.

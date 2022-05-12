@@ -3,6 +3,13 @@
 
 Bbot uses various mathematical equations, built-in indicators such as Relative Strength Index, Moving Average, Bollinger Bands. Average True Range, MACD, OBV and ML/AI to learn and make better predictions based on previous chart data of various cryptocurrenies.
 
+#### Bitcoin UPDATE [5/11/2022]
+### New algo design for volatile markets
+![image](https://user-images.githubusercontent.com/30962683/167970361-c6440a52-870c-4fd7-8272-9f70742b1db0.png)
+
+---
+
+
 #### Bitcoin
 ![image](https://user-images.githubusercontent.com/30962683/149702685-7e63aa00-db3c-439a-b4b1-53b056adc1d1.png)
 
